@@ -1,0 +1,41 @@
+
+
+
+
+
+
+
+.titulo {
+    text-align: center;
+    text-decoration: underline;
+}
+
+
+.tabla {
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+    border: 2px solid black;
+    border-collapse:collapse;
+    min-width: 1200px;
+    background-color: white;
+}
+
+td,th{
+    border: 2px solid black;
+    padding: 8px;
+    width: 200px;
+    height: 200px;
+}
+
+img {
+    width: 200px;
+    height: 260px;
+    
+    /*clip-path: polygon(50% 0%, 100% 50%, 50% 100%, 0% 50%);*/
+    
+}
+
+table td {
+    font-size: 16px;
+}
